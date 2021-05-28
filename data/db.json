@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "hello world!",
+      "body": "dojo blog<b>released<b/> \n",
+      "author": "mario",
+      "id": 1
+    }
+  ]
+}
